@@ -1,8 +1,10 @@
-# Intro to ggplot 2 Lab
+# Intro to ggplot2 - Lab
+
+## Introduction
 
 In this lab, we're going to use what you learned in our last lessons and try to re-create one of the images from your capstone project with ggplot2.
 
-## Learning Objectives
+## Objectives
 
 By the end of the lesson, you will have:
 
@@ -78,4 +80,7 @@ The next part is going to be a bit more guess and check based on what you know, 
 If you get stuck, maybe use this as an opportunity to reach out the the #rstats community.
 On Twitter, there are a lot of people tweeting on the `#rstats` hashtag and there's a big community of people learning everything in the tidyverse that you can find tweeting about `#tidytuesday`, a [weekly chance for people of any skill level to make plots using tidyverse principles](https://github.com/rfordatascience/tidytuesday), as well as a whole [R for Data Sciencecommunity](https://www.rfordatasci.com/) set up to help people get familiar with the tidyverse.
 
-Welcome to the world of R!
+## Summary 
+
+You made it to the end of the R-section. While there is still a lot to explore, this is a really great first step. Welcome to the world of R!
+
