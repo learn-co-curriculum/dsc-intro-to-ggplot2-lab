@@ -1,4 +1,4 @@
-# Intro to ggplot2 - Lab
+# ggplot2 - Lab
 
 ## Introduction
 
